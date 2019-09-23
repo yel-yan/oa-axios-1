@@ -1,0 +1,8 @@
+.box1 {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    top: 0;
+    left: 0;
+}
